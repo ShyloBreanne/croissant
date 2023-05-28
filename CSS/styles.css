@@ -9,10 +9,10 @@ p {
     margin: 20px;
 }
 
-img {
-    text-align: center;
-    max-width: 400px;
-    padding: 20px;
+.croissant-photo {
+    max-width: 500px;
+    border-radius: 10px;
+    margin: 20px 0;
 }
 
 a.links {
